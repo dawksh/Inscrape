@@ -1,0 +1,19 @@
+{
+  "name": "inscrape",
+  "version": "1.0.0",
+  "description": "A command line based instagram scraping tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "instagram",
+    "inscraper"
+  ],
+  "author": "Daksh Kulshrestha",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "terminal-link": "^2.1.1"
+  }
+}
